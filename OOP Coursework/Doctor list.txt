@@ -1,0 +1,10 @@
+Alex,Hales,1972-05-14,718596324,456879,Skin
+Lucas ,Hood,1978-06-29,779851220,785012,Lungs
+Joe,Root,1987-07-15,812234132,125478,Cosmetic
+Walter,White,1942-12-12,815623741,852369,Peditracian
+
+
+
+
+
+
